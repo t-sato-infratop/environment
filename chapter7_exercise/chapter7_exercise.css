@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headline {
+  padding: 20px 0 0 20px;
+}
+
+main {
+  width: 800px;
+  margin: 50px;
+}
+
+.service1 {
+  width: 840px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px gray;
+}
+.service2{
+  width: 840px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px gray;
+}
+.service3{
+  width: 840px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px gray;
+}
+.service4{
+  width: 840px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px gray;
+}
