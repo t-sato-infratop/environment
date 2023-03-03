@@ -226,3 +226,80 @@ footer {
 .footer-text {
   color: #fff
 }
+
+@media screen and (max-width: 425px) {
+.fab {
+    visibility: hidden;
+  }
+}
+
+.nav-list-item {
+    width: 100%;
+    display: block;
+    margin: 5px auto;
+}
+
+
+.main-visual-content {
+    width: 100%;
+}
+
+main {
+  width: 100%;
+  display: block;
+}
+
+.blog {
+  width: 100%;
+}
+
+.blog-box {
+  padding-bottom: 0px;
+}
+
+.blog-image {
+  width: 50%;
+  margin-left: 5%;
+}
+
+.blog-text {
+  width: 50%;
+  margin-right: 10px;
+}
+
+.blog-date {
+  font-size: 15px;
+}
+
+.category {
+  visibility: hidden;
+}
+
+.pagination {
+  margin-bottom: 50px;
+  padding-top: 0px;
+}
+
+.sidebar {
+  width: 100%;
+}
+
+.sidebar-contents {
+  margin-left: 20px;
+}
+
+.popular-text {
+  text-align: center;
+}
+
+.instagram-box {
+  width: 45%;
+}
+
+.instagram-box:nth-child(even) {
+  margin-right: 4%;
+}
+
+.footer-text {
+
+}
